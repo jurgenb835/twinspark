@@ -18,3 +18,4 @@ Notes and usage details for twinspark.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
