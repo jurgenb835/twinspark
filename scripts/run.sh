@@ -49,3 +49,4 @@ echo "twinspark"
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # drop an unused branch
+# handle the edge case from the last release
